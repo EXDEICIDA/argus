@@ -1,0 +1,15 @@
+# Ignore the Virtual Environment
+.venv/
+venv/
+
+# Ignore Build Artifacts (The heavy stuff)
+build/
+dist/
+*.spec
+
+# Ignore Python Cache
+__pycache__/
+
+# Ignore PyCharm Settings (User specific)
+.idea/
+
